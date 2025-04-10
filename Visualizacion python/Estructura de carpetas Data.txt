@@ -1,0 +1,143 @@
+📦datos_ext
+ ┣ 📂admision
+ ┃ ┣ 📂Rinden_Admisión2014
+ ┃ ┃ ┣ 📜ArchivoC_Adm2014.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2014_ArchivoC.xlsx
+ ┃ ┣ 📂Rinden_Admisión2015
+ ┃ ┃ ┣ 📜ArchivoC_Adm2015.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2015_ArchivoC.xlsx
+ ┃ ┣ 📂Rinden_Admisión2016
+ ┃ ┃ ┣ 📜ArchivoC_Adm2016.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2016_ArchivoC.xlsx
+ ┃ ┣ 📂Rinden_Admisión2017
+ ┃ ┃ ┣ 📜ArchivoC_Adm2017.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2017_ArchivoC.xlsx
+ ┃ ┣ 📂Rinden_Admisión2018
+ ┃ ┃ ┣ 📜ArchivoC_Adm2018.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2018_ArchivoC.xlsx
+ ┃ ┣ 📂Rinden_Admisión2019
+ ┃ ┃ ┣ 📜ArchivoC_Adm2019.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2019 _ArchivoC.xlsx
+ ┃ ┣ 📂Rinden_Admisión2020
+ ┃ ┃ ┣ 📜ArchivoC_Adm2020.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2020_ArchivoC.xlsx
+ ┃ ┣ 📂Rinden_Admisión2021
+ ┃ ┃ ┣ 📜ArchivoC_Adm2021.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2021_ArchivoC.xlsx
+ ┃ ┣ 📂Rinden_Admisión2022
+ ┃ ┃ ┣ 📜ArchivoC_Adm2022.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2022_ArchivoC.xlsx
+ ┃ ┣ 📂Rinden_Admisión2023
+ ┃ ┃ ┣ 📜ArchivoC_Adm2023.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2023_ArchivoC.xlsx
+ ┃ ┣ 📂Rinden_Admisión2024
+ ┃ ┃ ┣ 📜ArchivoC_Adm2024.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2024_ArchivoC.xlsx
+ ┃ ┗ 📂Rinden_Admisión2025
+ ┃ ┃ ┣ 📜ArchivoC_Adm2025INV.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2025_ArchivoC.xlsx
+ ┣ 📂inscripcion
+ ┃ ┣ 📂Inscritos_Admisión2014
+ ┃ ┃ ┣ 📜ArchivoB_Adm2014.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2014_ArchivoB.xlsx
+ ┃ ┣ 📂Inscritos_Admisión2015
+ ┃ ┃ ┣ 📜ArchivoB_Adm2015.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2015_ArchivoB.xlsx
+ ┃ ┣ 📂Inscritos_Admisión2016
+ ┃ ┃ ┣ 📜ArchivoB_Adm2016.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2016_ArchivoB.xlsx
+ ┃ ┣ 📂Inscritos_Admisión2017
+ ┃ ┃ ┣ 📜ArchivoB_Adm2017.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2017_ArchivoB.xlsx
+ ┃ ┣ 📂Inscritos_Admisión2018
+ ┃ ┃ ┣ 📜ArchivoB_Adm2018.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2018_ArchivoB.xlsx
+ ┃ ┣ 📂Inscritos_Admisión2019
+ ┃ ┃ ┣ 📜ArchivoB_Adm2019.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2019_ArchivoB.xlsx
+ ┃ ┣ 📂Inscritos_Admisión2020
+ ┃ ┃ ┣ 📜ArchivoB_Adm2020.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2020_ArchivoB.xlsx
+ ┃ ┣ 📂Inscritos_Admisión2021
+ ┃ ┃ ┣ 📜ArchivoB_Adm2021.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2021_ArchivoB.xlsx
+ ┃ ┣ 📂Inscritos_Admisión2022
+ ┃ ┃ ┣ 📜ArchivoB_Adm2022.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2022_ArchivoB.xlsx
+ ┃ ┣ 📂Inscritos_Admisión2023
+ ┃ ┃ ┣ 📜ArchivoB_Adm2023.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2023_ArchivoB.xlsx
+ ┃ ┣ 📂Inscritos_Admisión2024
+ ┃ ┃ ┣ 📜ArchivoB_Adm2024.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2024_ArchivoB.xlsx
+ ┃ ┗ 📂Inscritos_Admisión2025
+ ┃ ┃ ┣ 📜ArchivoB_Adm2025INV.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2025_ArchivoB.xlsx
+ ┣ 📂matricula
+ ┃ ┣ 📂Matricula_Admisión2014
+ ┃ ┃ ┣ 📜ArchivoMat_Adm2014.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2014_ArchivoMatricula.xlsx
+ ┃ ┣ 📂Matricula_Admisión2015
+ ┃ ┃ ┣ 📜ArchivoMat_Adm2015.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2015_ArchivoMatricula.xlsx
+ ┃ ┣ 📂Matricula_Admisión2016
+ ┃ ┃ ┣ 📜ArchivoMat_Adm2016.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2016_ArchivoMatricula.xlsx
+ ┃ ┣ 📂Matricula_Admisión2017
+ ┃ ┃ ┣ 📜ArchivoMat_Adm2017.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2017_ArchivoMatricula.xlsx
+ ┃ ┣ 📂Matricula_Admisión2018
+ ┃ ┃ ┣ 📜ArchivoMatr_Adm2018.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2018_ArchivoMatricula.xlsx
+ ┃ ┣ 📂Matricula_Admisión2019
+ ┃ ┃ ┣ 📜ArchivoMatr_Adm2019.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2019_ArchivoMatricula.xlsx
+ ┃ ┣ 📂Matricula_Admisión2020
+ ┃ ┃ ┣ 📜ArchivoMatr_Adm2020.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2020_ArchivoMatricula.xlsx
+ ┃ ┣ 📂Matricula_Admisión2021
+ ┃ ┃ ┣ 📜ArchivoMatr_Adm2021.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2021_ArchivoMatricula.xlsx
+ ┃ ┣ 📂Matricula_Admisión2022
+ ┃ ┃ ┣ 📜ArchivoMatr_Adm2022.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2022_ArchivoMatricula.xlsx
+ ┃ ┣ 📂Matricula_Admisión2023
+ ┃ ┃ ┣ 📜ArchivoMatr_Adm2023.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2023_ArchivoMatricula.xlsx
+ ┃ ┗ 📂Matricula_Admisión2024
+ ┃ ┃ ┣ 📜ArchivoMatr_Adm2024.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2024_ArchivoMatricula.xlsx
+ ┗ 📂postulacion
+ ┃ ┣ 📂PostulaciónySelección_Admisión2018
+ ┃ ┃ ┣ 📜ArchivoD_Adm2018.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2018_ArchivoD.xlsx
+ ┃ ┣ 📂PostulaciónySelección_Admisión2019
+ ┃ ┃ ┣ 📜ArchivoD_Adm2019.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2019_ArchivoD.xlsx
+ ┃ ┣ 📂PostulaciónySelección_Admisión2020
+ ┃ ┃ ┣ 📜ArchivoD_Adm2020.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2020_ArchivoD.xlsx
+ ┃ ┣ 📂PostulaciónySelección_Admisión2021
+ ┃ ┃ ┣ 📜ArchivoD_Adm2021.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2021_ArchivoD.xlsx
+ ┃ ┣ 📂PostulaciónySelección_Admisión2022
+ ┃ ┃ ┣ 📜ArchivoD_Adm2022.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2022_ArchivoD.xlsx
+ ┃ ┣ 📂PostulaciónySelección_Admisión2023
+ ┃ ┃ ┣ 📜ArchivoD_Adm2023.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2023_ArchivoD.xlsx
+ ┃ ┣ 📂PostulaciónySelección_Admisión2024
+ ┃ ┃ ┣ 📜ArchivoD_Adm2024.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2024_ArchivoD.xlsx
+ ┃ ┣ 📂Postulación_Admisión2014
+ ┃ ┃ ┣ 📜ArchivoD_Adm2014.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2014_ArchivoD.xlsx
+ ┃ ┣ 📂Postulación_Admisión2015
+ ┃ ┃ ┣ 📜ArchivoD_Adm2015.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2015_ArchivoD.xlsx
+ ┃ ┣ 📂Postulación_Admisión2016
+ ┃ ┃ ┣ 📜ArchivoD_Adm2016.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2016_ArchivoD.xlsx
+ ┃ ┗ 📂Postulación_Admisión2017
+ ┃ ┃ ┣ 📜ArchivoD_Adm2017.csv
+ ┃ ┃ ┗ 📜Libro_CódigosADM2017_ArchivoD.xlsx
