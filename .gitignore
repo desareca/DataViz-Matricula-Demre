@@ -1,1 +1,25 @@
 /Visualizacion python/datos_ext
+
+/dataviz-ternario/node_modules
+# Output
+/dataviz-ternario/.output
+/dataviz-ternario/.vercel
+/dataviz-ternario/.netlify
+/dataviz-ternario/.wrangler
+/dataviz-ternario/.svelte-kit
+/dataviz-ternario/build
+
+
+# OS
+/dataviz-ternario/.DS_Store
+/dataviz-ternario/Thumbs.db
+
+# Env
+/dataviz-ternario/.env
+/dataviz-ternario/.env.*
+/dataviz-ternario/!.env.example
+/dataviz-ternario/!.env.test
+
+# Vite
+/dataviz-ternario/vite.config.js.timestamp-*
+/dataviz-ternario/vite.config.ts.timestamp-*
